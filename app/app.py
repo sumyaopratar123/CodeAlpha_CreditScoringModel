@@ -516,5 +516,14 @@ st.html("""
     <br>
     Educational demonstration only.
     Not intended for real-world lending or financial decisions.
+
+</div>
+""")
+
+st.html("""
+<div class="footer">
+    💡 Support 24/7 
+    <br>
+    Contact -:sumitade324@gmail.com
 </div>
 """)
